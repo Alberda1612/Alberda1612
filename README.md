@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Alberta Adu. 
-### Data Scientist| Python| Excel|Power BI| Tableau| SQL|Machine Learning| Web Scrapping
 
 ##### I am a data scentist with expertise in Excel, Python, Machine learning, data storytelling, SQL, and Web Scrapping.
 ##### I'm passionate about using data to drive decision-making and solve real-world problems.
