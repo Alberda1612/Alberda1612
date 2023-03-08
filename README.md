@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Alberta Adu. 
+### Data Scientist| Python| Excel|Power BI| Tableau| SQL|Machine Learning| Web Scrapping
+
+##### I am a data scentist with expertise in Excel, Python, Machine learning, data storytelling, SQL, and Web Scrapping.
+##### I'm passionate about using data to drive decision-making and solve real-world problems.
+##### I'm always looking for new ways to leverage my skills to help organizations make better desicions. 
+##### 🔭 I am currently working on a analyzing customer spending behavior as part of a skill challenge. 
+##### 🌱 I'm currently learning intermediate SQL for data professionals.
+##### ⚡ Fun fact: The shortest commercially operating flight in the world lasts just 57 seconds, from Westray to Papa Westray in Scotland.
 
 <!--
 **Alberda1612/Alberda1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
