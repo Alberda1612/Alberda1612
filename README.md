@@ -3,7 +3,7 @@
 ##### I am a data scentist with expertise in Excel, Python, Machine learning, data storytelling, SQL, and Web Scrapping.
 ##### I'm passionate about using data to drive decision-making and solve real-world problems.
 ##### I'm always looking for new ways to leverage my skills to help organizations make better desicions. 
-##### 🔭 I am currently working on a analyzing customer spending behavior as part of a skill challenge. 
+##### 🔭 I am currently working on a analyzing customer spending behavior to help a retail company improve its marketing strategy as part of a skill challenge. 
 ##### 🌱 I'm currently learning intermediate SQL for data professionals.
 ##### ⚡ Fun fact: The shortest commercially operating flight in the world lasts just 57 seconds, from Westray to Papa Westray in Scotland.
 
