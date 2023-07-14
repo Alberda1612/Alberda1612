@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Alberta Adu. 
 
 #### I am a data scentist with expertise in Excel, Python, Machine learning, data storytelling, SQL, and Web Scrapping.
-#### I am also a Cybersecurity analyst with expertise in 
+#### I am also a Cybersecurity analyst with expertise in network security, vulnerability assessment, and information security.
 #### I'm passionate about using data to drive decision-making and solve business problems.
 #### I'm always looking for new ways to leverage my skills to help organizations make better desicions. 
 #### 🔭 I am currently working on several cybersecurity projects to hone my skills.
